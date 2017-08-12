@@ -10,3 +10,11 @@ recipe:
   ingredients_markdown:
   directions_markdown:
 ---
+
+
+Retomo el tema del blog personal tras un largo par&oacute;n de varios a&ntilde;os.
+
+Ten&iacute;a ganas de probar otras herramientas y alejarme un poco de las redes sociales y por eso cre&iacute;a que retomar un blog pod&iacute;a servir para esas dos cosas.
+
+No tengo a&uacute;n muy claro si va a ser simplemente un experimento temporal y que temas voy a tratar, as&iacute; que voy a darme un periodo de prueba.
+<br>&nbsp;
